@@ -3,7 +3,6 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-    //useless comment for test git
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
         String exp = in.nextLine();
